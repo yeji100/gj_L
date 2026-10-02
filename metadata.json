@@ -1,0 +1,6 @@
+{
+  "name": "거제중앙중학교 실시간 급식 식단표",
+  "description": "경상남도 거제중앙중학교의 날짜별 급식 식단, 알레르기 정보, 칼로리 및 영양정보를 실시간 NEIS OpenAPI 및 데이터베이스를 통해 조회할 수 있는 반응형 웹 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
